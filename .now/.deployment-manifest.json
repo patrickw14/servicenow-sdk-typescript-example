@@ -1,0 +1,163 @@
+{
+  "files": [
+    {
+      "status": "DEPLOYED",
+      "current_hash": "51c3d7fc8c4cd497cad42f2503a21b00",
+      "path": "dictionary/x_snc_ts_demo_to_do.xml",
+      "deploy_hash": "51c3d7fc8c4cd497cad42f2503a21b00",
+      "modulePath": ""
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "9b815d22a9af0b7aa710bfd05204f0e6",
+      "path": "sys_app_b58c4bfe1d688210f8772e5aea150e36.xml",
+      "deploy_hash": "9b815d22a9af0b7aa710bfd05204f0e6",
+      "modulePath": ""
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "e1bd2be8e0d9a7cb9b64c69e3e68ad77",
+      "path": "update/sys_module_package_json.xml",
+      "deploy_hash": "e1bd2be8e0d9a7cb9b64c69e3e68ad77",
+      "modulePath": "x_snc_ts_demo/ts_demo/0.0.1/package.json"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "38ac3c123aa6f559aef4291d858a8be9",
+      "path": "update/sys_script_458fd509f63e4051925b07edfd24ed28.xml",
+      "deploy_hash": "38ac3c123aa6f559aef4291d858a8be9",
+      "modulePath": ""
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "c4d0e8aea1291194d760c791795d6e17",
+      "path": "update/sys_module_dist_modules_src_myfunction_js.xml",
+      "deploy_hash": "c4d0e8aea1291194d760c791795d6e17",
+      "modulePath": "x_snc_ts_demo/ts_demo/0.0.1/dist/modules/src/myfunction.js"
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "9206914bf595638dda3501f99fb559e2",
+      "path": "update/sys_module_dependency_lodash_4_17_21.xml",
+      "deploy_hash": "9206914bf595638dda3501f99fb559e2",
+      "modulePath": [
+        "x_snc_ts_demo/lodash/4.17.21/package.json",
+        "x_snc_ts_demo/lodash/4.17.21/lodash.js"
+      ]
+    },
+    {
+      "path": "package_inventory.csv",
+      "current_hash": "64b70d6a176b60f6c20d912661b28105",
+      "deploy_hash": "64b70d6a176b60f6c20d912661b28105",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "path": "update/sys_db_object_4b8c877e1d6c8210f8772e5aea150e75.xml",
+      "current_hash": "9e4c593ed14e73ed0fc179b753fe5e05",
+      "deploy_hash": "9e4c593ed14e73ed0fc179b753fe5e05",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "path": "update/sys_dictionary_x_snc_ts_demo_to_do_deadline.xml",
+      "current_hash": "2f2f09c3fbda52b220841eaa696b08f8",
+      "deploy_hash": "2f2f09c3fbda52b220841eaa696b08f8",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "path": "update/sys_dictionary_x_snc_ts_demo_to_do_null.xml",
+      "current_hash": "cc83fd1bd21d921cbc3526a5e646084f",
+      "deploy_hash": "cc83fd1bd21d921cbc3526a5e646084f",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "path": "update/sys_dictionary_x_snc_ts_demo_to_do_status.xml",
+      "current_hash": "a5b7485019d1bfbb3fa9a83b24a7c88c",
+      "deploy_hash": "a5b7485019d1bfbb3fa9a83b24a7c88c",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "path": "update/sys_dictionary_x_snc_ts_demo_to_do_task.xml",
+      "current_hash": "03f577837db939feda2a689ceb99d605",
+      "deploy_hash": "03f577837db939feda2a689ceb99d605",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "path": "update/sys_documentation_x_snc_ts_demo_to_do__en.xml",
+      "current_hash": "27221dcdb307d31cbe72c3857971d9f9",
+      "deploy_hash": "27221dcdb307d31cbe72c3857971d9f9",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "path": "update/sys_documentation_x_snc_ts_demo_to_do_deadline_en.xml",
+      "current_hash": "dcc536002849609400c60840058a72a5",
+      "deploy_hash": "dcc536002849609400c60840058a72a5",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "path": "update/sys_documentation_x_snc_ts_demo_to_do_status_en.xml",
+      "current_hash": "69d55bcb11f16f8512919c902441335c",
+      "deploy_hash": "69d55bcb11f16f8512919c902441335c",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "path": "update/sys_documentation_x_snc_ts_demo_to_do_task_en.xml",
+      "current_hash": "250124c3293ab2107ed3fb91796e8fd9",
+      "deploy_hash": "250124c3293ab2107ed3fb91796e8fd9",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "path": "update/sys_ui_list_x_snc_ts_demo_to_do_null.xml",
+      "current_hash": "dcf1564fc144dd8dac94277c80a8b03a",
+      "deploy_hash": "dcf1564fc144dd8dac94277c80a8b03a",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "path": "update/sys_ui_section_51a11b7a1dac8210f8772e5aea150e27.xml",
+      "current_hash": "abc385037994f0a623026d44929db74e",
+      "deploy_hash": "abc385037994f0a623026d44929db74e",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "path": "update/ua_table_licensing_config_138c8bf21dac8210f8772e5aea150efd.xml",
+      "current_hash": "117365683546259423c5bc38d8927be8",
+      "deploy_hash": "117365683546259423c5bc38d8927be8",
+      "status": "DEPLOYED",
+      "modulePath": ""
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "6d71c7b12e64c38dd5dfe1e570cc095f",
+      "path": "update/sys_module_dependency_console_1_0_0.xml",
+      "deploy_hash": "6d71c7b12e64c38dd5dfe1e570cc095f",
+      "modulePath": [
+        "x_snc_ts_demo/console/1.0.0/package.json",
+        "x_snc_ts_demo/console/1.0.0/console.js"
+      ]
+    },
+    {
+      "status": "DEPLOYED",
+      "current_hash": "0419bc5675252f027b236b23e40daa54",
+      "path": "update/sys_module_dependency_moment_2_30_1.xml",
+      "deploy_hash": "0419bc5675252f027b236b23e40daa54",
+      "modulePath": [
+        "x_snc_ts_demo/moment/2.30.1/package.json",
+        "x_snc_ts_demo/moment/2.30.1/moment.js"
+      ]
+    }
+  ],
+  "packageJsonHash": "14808d9485aa1f45b03d2b6ab0b045dc",
+  "register_scope": false,
+  "last_fetch": "2024-02-28T05:30:37.952Z"
+}

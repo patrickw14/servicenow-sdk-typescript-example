@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<record_update>
+  <sys_module action="INSERT_OR_UPDATE">
+    <sys_scope>b58c4bfe1d688210f8772e5aea150e36</sys_scope>
+    <path>x_snc_ts_demo/console/1.0.0/package.json</path>
+    <external_source>true</external_source>
+    <content><![CDATA[{
+  "name": "console",
+  "version": "1.0.0",
+  "main": "./console.js",
+  "dependencies": {}
+}]]></content>
+  </sys_module>
+  <sys_module action="INSERT_OR_UPDATE">
+    <sys_scope>b58c4bfe1d688210f8772e5aea150e36</sys_scope>
+    <path>x_snc_ts_demo/console/1.0.0/console.js</path>
+    <external_source>true</external_source>
+    <content><![CDATA['use strict';
+
+var __global$ = globalThis || (typeof window !== "undefined" ? window : self);
+function getDefaultExportFromCjs(x) {
+  return x && x.__esModule && Object.prototype.hasOwnProperty.call(x, 'default') ? x['default'] : x;
+}
+function getAugmentedNamespace(n) {
+  if (n.__esModule) return n;
+  var f = n["default"];
+  if (typeof f == "function") {
+    var a = function a() {
+      if (this instanceof a) {
+        var args = [null];
+        args.push.apply(args, arguments);
+        var Ctor = Function.bind.apply(f, args);
+        return new Ctor();
+      }
+      return f.apply(this, arguments);
+    };
+    a.prototype = f.prototype;
+  } else a = {};
+  Object.defineProperty(a, '__esModule', {
+    value: true
+  });
+  Object.keys(n).forEach(function (k) {
+    var d = Object.getOwnPropertyDescriptor(n, k);
+    Object.defineProperty(a, k, d.get ? d : {
+      enumerable: true,
+      get: function get() {
+        return n[k];
+      }
+    });
+  });
+  return a;
+}
+typeof __global$ !== "undefined" ? __global$ : typeof self !== "undefined" ? self : typeof window !== "undefined" ? window : {};
+function noop() {}
+var console = global.console ? global.console : {
+  log: noop,
+  info: noop,
+  warn: noop,
+  error: noop,
+  dir: noop,
+  assert: noop,
+  time: noop,
+  timeEnd: noop,
+  trace: noop
+};
+var console$1 = /*#__PURE__*/Object.freeze({
+  
+  "default": console
+});
+var require$$0 = /*@__PURE__*/getAugmentedNamespace(console$1);
+var _virtual__tempEntryConsole = require$$0;
+var _virtual__tempEntryConsole$1 = /*@__PURE__*/getDefaultExportFromCjs(_virtual__tempEntryConsole);
+module.exports = _virtual__tempEntryConsole$1;
+]]></content>
+  </sys_module>
+</record_update>

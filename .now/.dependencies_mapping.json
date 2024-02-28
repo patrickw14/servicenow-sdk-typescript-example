@@ -1,0 +1,34 @@
+{
+  "lodash": {
+    "dependencies": [
+      "sys_module_dependency_lodash_4_17_21.xml"
+    ],
+    "version": "4.17.21",
+    "dependency_metric": [
+      {
+        "dep_name": "lodash",
+        "dep_version": "4.17.21",
+        "direct": true
+      }
+    ]
+  },
+  "moment": {
+    "dependencies": [
+      "sys_module_dependency_moment_2_30_1.xml",
+      "sys_module_dependency_console_1_0_0.xml"
+    ],
+    "version": "2.30.1",
+    "dependency_metric": [
+      {
+        "dep_name": "moment",
+        "dep_version": "2.30.1",
+        "direct": true
+      },
+      {
+        "dep_name": "console",
+        "dep_version": "1.0.0",
+        "direct": false
+      }
+    ]
+  }
+}

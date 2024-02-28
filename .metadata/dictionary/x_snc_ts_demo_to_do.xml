@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4b8c877e1d6c8210f8772e5aea150e75" label="To-Do" max_length="40" name="x_snc_ts_demo_to_do" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Deadline" max_length="40" name="deadline" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="10" name="status" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Task" max_length="120" name="task" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/modules",
+        "rootDir": ".",
+        "allowJs": true,
+        "noEmit": false,
+    },
+    "exclude": [],
+    "include": [
+        "src", "dist/modules"
+    ]
+}
